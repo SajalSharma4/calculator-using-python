@@ -1,2 +1,3 @@
 # calculator-using-python
-A basic calculator created using python language.
+Working calculator created using python language.
+Library used is tkinter.
